@@ -1,16 +1,16 @@
 [{
   "name": "Erlan",
-  "id": "3",
+  "id": 3,
   "skill": "python"
 },
   {
     "name": "Asan",
-    "id": "2",
+    "id": 2,
     "skill": "python"
   },
   {
     "name": "Nurik",
-    "id": "1",
+    "id": 1,
     "skill": "java"
   }
 ]
